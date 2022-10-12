@@ -1,14 +1,16 @@
 <h4>Create worksheets from cells</h4>
-<p>...</p>
+<p>Structure of the worksheet "master"</p>
 <table style="width:100%">
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>pcs</th>
+    <th>description</th>
+    <th>number</th>
+    <th>ticker</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>200</td>
+    <td>washers</td>
+    <td>123</td>
+    <td>KW-18</td>
+  </tr>
+</table>
