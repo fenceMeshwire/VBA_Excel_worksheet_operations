@@ -27,4 +27,4 @@
   </tr>
 </table>
 
-<p>Create separate worksheets with values from the ticker columns.</p>
+<p>Create separate worksheets with values from column "ticker".</p>
