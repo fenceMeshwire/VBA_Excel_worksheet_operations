@@ -13,4 +13,10 @@
     <td>123</td>
     <td>KW-18</td>
   </tr>
+    <tr>
+    <td>300</td>
+    <td>bolts</td>
+    <td>123</td>
+    <td>TD-27</td>
+  </tr>
 </table>
