@@ -20,3 +20,5 @@
     <td>TD-27</td>
   </tr>
 </table>
+
+<p>Create separate worksheets with values from the ticker columns.</p>
