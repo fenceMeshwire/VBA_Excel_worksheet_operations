@@ -1,4 +1,4 @@
-<h4>Create worksheets from cells</h4>
+<h4>Create worksheets from column cells "ticker" values</h4>
 <p>Structure of the worksheet "master"</p>
 <table style="width:100%">
   <tr>
